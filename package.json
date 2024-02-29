@@ -1,0 +1,14 @@
+{
+  "name": "rescript-openapi",
+  "version": "1.0.0",
+  "description": "ReScript bindings for OpenAPI 3",
+  "scripts": {
+    "compile": "rescript build",
+    "watch": "rescript build -w"
+  },
+  "author": "OANDA Corporation",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "rescript": "^9.1.4"
+  }
+}
